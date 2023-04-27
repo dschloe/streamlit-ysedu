@@ -1,5 +1,6 @@
 numpy
 pandas
+pingouin
 matplotlib
 seaborn
 plotly
